@@ -11,3 +11,19 @@ scikit-learn==0.21.3
 The main directory contains the directories of two Twitter datasets: twitter15 and twitter16. In each directory, there are:
 
 These dastasets are preprocessed according to our requirement and original datasets can be available at [here](https://www.dropbox.com/s/7ewzdrbelpmrnxu/rumdetect2017.zip?dl=0)
+
+## Training & Testing
+1. create an empty directory: result/
+2. sh run.sh 0 twitter15\[twitter16\]
+
+# Citation
+If you find the code is useful for your research, please cite this paper:  
+<pre><code>@inproceedings{inproceedings,
+author = {Huang, Qi and Yu, Junshuai and Wu, Jia and Wang, Bin},
+year = {2020},
+month = {06},
+pages = {1-8},
+title = {Heterogeneous Graph Attention Networks for Early Detection of Rumors on Twitter},
+doi = {}
+}</code></pre>
+
