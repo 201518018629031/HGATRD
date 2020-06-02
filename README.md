@@ -18,7 +18,7 @@ These dastasets are preprocessed according to our requirement and original datas
 
 # Citation
 If you find the code is useful for your research, please cite this paper:  
-<pre><code>@inproceedings{inproceedings,
+<pre><code>@inproceedings{huang2020heterogeneous,
 author = {Huang, Qi and Yu, Junshuai and Wu, Jia and Wang, Bin},
 year = {2020},
 month = {06},
