@@ -24,8 +24,7 @@ ind.twitter1*.user.tweet.adj.et* files: the weight adjacency matrix of the tweet
 These datasets are preprocessed according to our requirement and original datasets can be available at [here](https://www.dropbox.com/s/7ewzdrbelpmrnxu/rumdetect2017.zip?dl=0)
 
 ## Training & Testing
-1. create an empty directory: result/
-2. sh run.sh 0 twitter15\[twitter16\]
+sh run.sh 0 twitter15\[twitter16\]
 
 # Citation
 If you find the code is useful for your research, please cite this paper:  
