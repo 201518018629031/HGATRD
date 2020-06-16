@@ -1,5 +1,5 @@
 # HGATRD
-The implementation of our IJCNN 2020 paper "Heterogeneous Graph Attention Networks for Rumor Detection on Twitter" 
+The implementation of our IJCNN 2020 paper "Heterogeneous Graph Attention Networks for Early Detection of Rumors on Twitter" 
 # Requirements
 python 3.6.6  
 numpy==1.17.2  
