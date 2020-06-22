@@ -28,11 +28,9 @@ sh run.sh 0 twitter15\[twitter16\]
 
 # Citation
 If you find the code is useful for your research, please cite this paper:  
-<pre><code>@inproceedings{huang2020heterogeneous,
-author = {Huang, Qi and Yu, Junshuai and Wu, Jia and Wang, Bin},
-year = {2020},
-month = {06},
-pages = {1-8},
-title = {Heterogeneous Graph Attention Networks for Early Detection of Rumors on Twitter},
-doi = {}
+<pre><code>@article{huang2020heterogeneous,
+  title={Heterogeneous Graph Attention Networks for Early Detection of Rumors on Twitter},
+  author={Huang, Qi and Yu, Junshuai and Wu, Jia and Wang, Bin},
+  journal={arXiv preprint arXiv:2006.05866},
+  year={2020}
 }</code></pre>
